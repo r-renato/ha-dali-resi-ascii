@@ -1,0 +1,12 @@
+{
+    "domain": "drp_dali_resi_ascii",
+    "name": "DRP (Domotic Residential Platform) DALI RESI Master",
+    "documentation": "https://github.com/r-renato/ha-dali-resi-ascii",
+    "iot_class": "local_polling",
+    "quality_scale": "gold",
+    "requirements": ["telnetlib3==2.0.4"],
+    "dependencies": [],
+    "codeowners": ["@r-renato"],
+    "config_flow": true,
+    "version": "1.0.0"
+  }

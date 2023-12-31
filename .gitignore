@@ -1,0 +1,17 @@
+# ####### ####### #######
+# Folders
+
+.idea
+.vscode/settings.json
+PaxHeader
+node_modules
+archive
+
+# ####### ####### #######
+# Files
+home-assistant/secrets.yaml
+home-assistant/known_devices.yaml
+home-assistant/.google*
+mosquitto-repo.gpg.key
+package-lock.json
+
